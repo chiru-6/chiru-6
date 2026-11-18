@@ -7,7 +7,13 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-delta-black-88.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Play_it_as_a_chess_game_♞-F5C542?style=for-the-badge&labelColor=07070f" /></a>
+</p>
+
+<p align="center">
   <a href="mailto:cmurugan@ttu.edu"><img src="https://img.shields.io/badge/Email-cmurugan%40ttu.edu-CC0000?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chirandan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/chiru6/"><img src="https://img.shields.io/badge/LeetCode-chiru6-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
   <a href="https://c2.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=chiru-6&style=flat&color=CC0000" />
 </p>
@@ -31,6 +37,8 @@ avatars in **NVIDIA Omniverse**, and training sentiment-analysis models at **Cor
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Chess Portfolio](https://github.com/chiru-6/portfolio)** · [Live ↗](https://portfolio-delta-black-88.vercel.app/) | My portfolio as a playable 3D chess game: every move opens a section, and Scholar's Mate ends on the contact page | TypeScript · CSS 3D · Web Audio · Vercel |
+| **[StudySpark](https://github.com/chiru-6/studyspark)** | Turns notes and PDFs into TextRank summaries, flashcards and auto-generated quizzes. All the NLP is implemented in the app, with no paid API | Python · Flask · scikit-learn · React · TypeScript |
 | **[Chiru – Monthly Budget](https://github.com/chiru-6/chiru-monthly-budget)** · [Live ↗](https://chiru-monthly-budget.woollyrain15.chatgpt.site/) | Private monthly budgeting workspace: category budgets, recurring bills, savings goals and Excel/CSV statement import, with per-account cloud storage and conflict-safe saves | Next.js · React · TypeScript · Cloudflare D1 · Drizzle |
 | **[One Health Hub](https://github.com/chiru-6/One_Health_Hub)** | Hackathon healthcare platform (Advaya National Hackathon): medication tracking with pill reminders, AI specialist matching from symptoms, centralized records and a community forum | JavaScript · Flask · TF-IDF / cosine similarity |
 | **[Rapido](https://github.com/chiru-6/rapido)** | Ride-booking app concept: real-time driver tracking, fare estimation and booking history | TypeScript |
